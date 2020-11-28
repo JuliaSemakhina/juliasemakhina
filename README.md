@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/sensajulia" target="blank"><img src="https://img.shields.io/twitter/follow/sensajulia?logo=twitter&style=for-the-badge" alt="sensajulia" /></a> </p>
 
-- 🔭 I'm new to programming world, started learning sproadically in 2019 and continued more systimatically in 2020. First I was more aimed at CSS design and gradually switched to JavaScript to learn how to make sites interactive. I'm planning to continue learning JS as well as React JS.
+- 🔭 I'm new to programming world, started learning sproadically in 2019 and continued more systematically in 2020. First I was more aimed at CSS design and gradually switched to JavaScript to learn how to make sites interactive. I'm planning to continue learning JS as well as React JS. 
+Previously I've been working in clinical research organizations doing a lot of paper work (it was insane), for me it was tedious and just a deadend with no career development and growth, that is why I decided to tackle smth more challenging and demanding constant learning. 
 
 - 🌱 I’m currently learning: **React**
 
