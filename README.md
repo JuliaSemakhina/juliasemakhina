@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Julia</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
-<p align="left"> <a href="https://twitter.com/sensajulia" target="blank"><img src="https://img.shields.io/twitter/follow/sensajulia?logo=twitter&style=for-the-badge" alt="sensajulia" /></a> </p>
+<p align="left"> <a href="https://twitter.com/LastandFox" target="blank"><img src="https://img.shields.io/twitter/follow/LastandFox?logo=twitter&style=for-the-badge" alt="sensajulia" /></a> </p>
 
 - 🔭 I'm new to programming world, started learning sproadically in 2019 and continued more systematically in 2020. First I was more aimed at CSS design and gradually switched to JavaScript to learn how to make sites interactive. I'm planning to continue learning JS as well as React JS. 
 Previously I've been working in clinical research organizations doing a lot of paper work (it was insane), for me it was tedious and just a deadend with no career development and growth, that is why I decided to tackle smth more challenging and demanding constant learning. 
@@ -19,7 +19,7 @@ Previously I've been working in clinical research organizations doing a lot of p
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/yulia-semahina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="yulia-semahina" height="30" width="40" /></a>
-<a href="https://twitter.com/sensajulia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sensajulia" height="30" width="40" /></a>
+<a href="https://twitter.com/LastandFox" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="LasatandFox" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/julia-semakhina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="julia-semakhina" height="30" width="40" /></a>
 <a href="https://fb.com/iisemahina" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iisemahina" height="30" width="40" /></a>
 
