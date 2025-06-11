@@ -1,11 +1,9 @@
 <img src="https://github.com/JuliaSemakhina/juliasemakhina/blob/main/French%20Flower%20Tumblr%20Banner.png">
 
 <h1 align="center">Hi 👋, I'm Julia</h1>
-<h3 align="center">A passionate frontend developer from Russia</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <a href="https://twitter.com/LastandFox" target="blank"><img src="https://img.shields.io/twitter/follow/LastandFox?logo=twitter&style=for-the-badge" alt="sensajulia" /></a> </p>
-
-- 🔭 I started studying programming because it's food for the mind and an exciting challenge for me. I'm fascinated not only by the learning process, but also by the results I get and see on the screen. I'm interested in front-end development so far. 
+- 🔭 I started studying programming because it's food for the mind and an exciting challenge for me. I'm fascinated not only by the learning process, but also by the results I get and see on the screen. I'm interested in frontend development so far. 
 
 - 🌱 I’m currently learning: **React**
 
