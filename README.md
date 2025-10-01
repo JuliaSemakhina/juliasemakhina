@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **React**
 
-- 💬 Ask me about:  **CSS**
+- 💬 Ask me about:  **CSS and React**
 
 - ⚡ Fun fact:  **I'm passionate about games, travelling, sport and mountain climbing.**
 
