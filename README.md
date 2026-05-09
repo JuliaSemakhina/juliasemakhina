@@ -1,15 +1,8 @@
 <img src="https://github.com/JuliaSemakhina/juliasemakhina/blob/main/French%20Flower%20Tumblr%20Banner.png">
 
-<h1 align="center">Hi 👋, I'm Julia</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hi 👋, I'm Yulia</h1>
+<h3 align="center">Frontend developer</h3>
 
-- 🔭 I started studying programming because it's food for the mind and an exciting challenge for me. I'm fascinated not only by the learning process, but also by the results I get and see on the screen. I'm interested in frontend development so far. 
-
-- 🌱 I’m currently learning: **React**
-
-- 💬 Ask me about:  **CSS and React**
-
-- ⚡ Fun fact:  **I'm passionate about games, travelling, sport and mountain climbing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
